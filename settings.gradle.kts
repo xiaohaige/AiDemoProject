@@ -17,6 +17,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+    enableFeaturePreview("VERSION_CATALOGS")
 }
 
 rootProject.name = "TravelApp"
